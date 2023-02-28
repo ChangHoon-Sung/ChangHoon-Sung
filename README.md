@@ -1,7 +1,7 @@
 ### Hello Stranger 👋
 - 🧑‍💻 I'm changhoon, majoring in Computer Science in Kookmin University.
-- ❤️ I’m currently interested in system, infrastructure, cloud.
-- 🔭 I’m currently working on Lablup Inc.
+- ❤️ I’m currently interested in system and cloud.
+- 🌱 I’m currently learning linux, AWS, and project leading
 <!--
 **ChangHoon-Sung/ChangHoon-Sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
