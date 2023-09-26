@@ -1,7 +1,6 @@
-### Hello Stranger 👋
-- 🧑‍💻 I'm changhoon, majoring in Computer Science in Kookmin University.
-- ❤️ I’m currently interested in system and cloud.
-- 🌱 I’m currently learning linux filesystem and storage profiling
+### Hello 👋
+- 🧑‍💻 I'm Changhoon, majoring in Computer Science at Kookmin University.
+- ❤️ I’m currently interested in storage & memory system.
 <!--
 **ChangHoon-Sung/ChangHoon-Sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
