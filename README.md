@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🧑‍💻 I'm Changhoon, majoring in Computer Science at Kookmin University.
+- 🧑‍💻 I'm Changhoon, MS student in CS @ SDSU
 - ❤️ I’m currently interested in storage & memory system.
 <!--
 **ChangHoon-Sung/ChangHoon-Sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
